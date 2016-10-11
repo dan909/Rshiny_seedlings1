@@ -1,4 +1,4 @@
 Rshiny_seedlings1
 =================
 
-The 2013 seedling data for the aber blank trial
+A fake data example of the R Shiny visual representation 2013 seedling data for the Aberystwyth & Blankney Miscanthus trial
